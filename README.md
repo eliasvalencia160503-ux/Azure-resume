@@ -34,12 +34,6 @@ This project is a cloud-hosted resume website built on Microsoft Azure. It uses 
 - Azure Functions
 - Azure Cosmos DB
 
-- JavaScript
-- Python
-- Azure Static Web Apps
-- Azure Functions
-- Azure Cosmos DB
-
 ## Project Structure
 text
 .
